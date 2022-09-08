@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claudia Udroiu"
 title_separator          : "-"
 name                     : &name "Claudia Udroiu"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://claudroiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claudroiu/claudroiu.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "udroiu [dot] claudia [at] gmail [dot] com
+  email            : "udroiu [dot] claudia [at] gmail [dot] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
