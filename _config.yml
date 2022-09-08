@@ -82,12 +82,16 @@ analytics:
 author:
   name             : "Claudia Udroiu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student in Economics"
+  location         : "Piazza dell'Università, 1 <br>
+	      	            Department of Economics <br> 
+	      	            <td><a target="_blank" href="https://www.unibz.it///">Free University of Bozen</a></td><br>
+		                  39100 Bolzano<br>
+		                  Italy<br><br>
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "udroiu [dot] claudia [at] gmail [dot] com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
