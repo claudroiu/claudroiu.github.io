@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Economics at the [Free University of Bolzano-Bozen](https://www.unibz.it/en/), under the supervision of [Francesco Ravazzolo](http://www.francescoravazzolo.com/). My research interests are in Macroeconomics with a particular emphasis on Fiscal and Monetary Policy.
-[Curriculum Vitae](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/CV_ClaudiaUdroiu.pdf) 
+[Curriculum Vitae](https://claudroiu.github.io/files/CV_ClaudiaUdroiu.pdf) 
 
 
 Working Papers
