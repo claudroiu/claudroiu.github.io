@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claudia Udroiu"
 title_separator          : "-"
 name                     : &name "Claudia Udroiu"
-description              : &description "PhD Student"
+description              : &description "PhD Student in Economics"
 url                      : https://claudroiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claudroiu/claudroiu.github.io"
@@ -82,10 +82,12 @@ analytics:
 author:
   name             : "Claudia Udroiu"
   avatar           : "PICTURE_Claudia Udroiu copy.jpg"
-  bio              : "PhD Student in Economics"
-  location         : "Piazza Università, 1 <br>
-                      39100 Bolzano-Bozen <br>
-                      Italy"
+  bio              : "PhD Student in Economics <br>
+                      Free University of Bolzano-Bozen"
+  #location         : 
+  "Piazza Università, 1 <br>
+   39100 Bolzano-Bozen <br>
+   Italy"
   employer         : 
   email            : "udroiu.claudia@gmail.com"
   uri              :
