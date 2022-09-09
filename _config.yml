@@ -83,19 +83,15 @@ author:
   name             : "Claudia Udroiu"
   avatar           : "profile.png"
   bio              : "PhD Student in Economics"
-  location         : "Piazza Università, 1 39100 Bolzano-Bozen Italy"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
+  location         : "Piazza Università, 1"
+  location         : "39100 Bolzano-Bozen Italy"
+  employer         : 
   email            : "udroiu.claudia@gmail.com"
-  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
   github           : "claudroiu"
   google_plus      :
   keybase          :
@@ -108,7 +104,6 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
   vine             :
   weibo            :
   xing             :
