@@ -84,10 +84,9 @@ author:
   avatar           : "PICTURE_Claudia Udroiu copy.jpg"
   bio              : "PhD Student in Economics <br>
                       Free University of Bolzano-Bozen"
-  #location         : 
-  "Piazza Università, 1 <br>
-   39100 Bolzano-Bozen <br>
-   Italy"
+  location         : "Piazza Università, 1 <br>
+                      39100 Bolzano-Bozen <br>
+                      Italy"
   employer         : 
   email            : "udroiu.claudia@gmail.com"
   uri              :
