@@ -16,12 +16,10 @@ Working Papers
 
 Money supply and Fiscal Policy with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)
 
-Abstract coming soon
-
 
 
 Work in progress
 ======
 
-Coming soon...
+Coming soon
 
