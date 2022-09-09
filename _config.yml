@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "udroiu [dot] claudia [at] gmail [dot] com"
+  email            : "udroiu.claudia@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,9 @@ author:
   github           : "claudroiu"
   google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/claudia-udroiu/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
