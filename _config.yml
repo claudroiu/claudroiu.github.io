@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Claudia Udroiu"
-  avatar           : "PICTURE_Claudia Udroiu copy.jpg"
+  avatar           : "udroiu-claudia.jpg"
   bio              : "PhD Student in Economics <br>
                       Free University of Bolzano-Bozen"
   location         : "Piazza Università, 1 <br>
                       39100 Bolzano-Bozen <br>
                       Italy"
-  employer         : 
+  employer         :
   email            : "udroiu.claudia@gmail.com"
   uri              :
   bitbucket        :
@@ -100,10 +100,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/claudia-udroiu/"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   vine             :
