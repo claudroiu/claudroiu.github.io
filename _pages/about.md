@@ -14,10 +14,9 @@ I am a PhD student in Economics at the [Free University of Bolzano-Bozen](https:
 Working Papers
 ======
 
-Money supply and fiscal policy
-------
+Money supply and Fiscal Policy with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)
 
-Coming soon...
+Abstract coming soon
 
 
 
