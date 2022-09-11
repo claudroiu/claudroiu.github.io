@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Claudia Udroiu"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Claudia Udroiu"
 description              : &description "PhD Student in Economics"
 url                      : https://claudroiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
