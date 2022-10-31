@@ -18,10 +18,10 @@ Working Papers
 
 <b>Money Supply and Fiscal Policy</b> with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)
 
-
+<b>Distortionary taxation in a New Keynesian Model</b>
 
 Work in progress
 ======
 
-Coming soon...
+<b>The Macroeconomic Effects of Income Taxes on Labour Markets</b> with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/) 
 
