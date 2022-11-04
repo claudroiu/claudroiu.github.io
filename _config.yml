@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Claudia Udroiu"
 title_separator          : ""
-name                     : 
+name                     : " "
 description              : &description "PhD Student in Economics"
 url                      : https://claudroiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
