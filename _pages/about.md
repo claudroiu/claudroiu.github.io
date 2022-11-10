@@ -14,11 +14,11 @@ Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/cv.pdf)
 
 ____________
 ### Working Papers
-<b>Money Supply and Fiscal Policy</b> with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)
+Money Supply and Fiscal Policy (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/))
 
-<b>Distortionary taxation in a New Keynesian Model</b>
+Distortionary taxation in a New Keynesian Model
 
 ___________
 ### Work in progress
-<b>The Macroeconomic Effects of Income Taxes on Labour Markets</b> with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/) 
+The Macroeconomic Effects of Income Taxes on Labour Markets (with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/))
 
