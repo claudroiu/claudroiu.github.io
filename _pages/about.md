@@ -16,6 +16,8 @@ ____________
 ### Working Papers
 On the Interactions between Money Supply and Fiscal Stimuli (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/))
 
+Velocity and Public Debt Expectations (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert))
+
 Distortionary taxation in a New Keynesian Model
 
 ___________
