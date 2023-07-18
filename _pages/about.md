@@ -15,11 +15,11 @@ Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_Clau
 ____________
 ### Working Papers
 
-[On the Interactions between Money Supply and Fiscal Stimuli](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/InteractionsMoneySupplyFiscalStimuli_06072023.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
+[**On the Interactions between Money Supply and Fiscal Stimuli**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/InteractionsMoneySupplyFiscalStimuli_06072023.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
 In this paper we quantitatively evaluate an alternative way of public debt financing. Specifically, we develop and estimate a New Keynesian model to analyse the effects of a fiscal stimulus that is financed by money supply, and does not result in an increase in public debt. Through our impulse response analysis, we find a positive impact of monetary-financing on economic aggregates. The paper contributes to the literature by providing a quantitative counterfactual analysis of utilizing the money supply to finance fiscal stimuli. 
 
 
-[Public Debt, Fiscal Policy and Velocity](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Velocity_and_public_debt_expectations_V2.pdf) (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert)) <br>
+[**Public Debt, Fiscal Policy and Velocity**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Velocity_and_public_debt_expectations_V2.pdf) (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert)) <br>
 This work explores the relationship between the public debt-to-GDP ratio and the velocity of money zero maturity (MZM) in the United States. Our findings suggest that the public debt-to-GDP ratio Granger causes velocity from 1959Q1 to 2019Q4. To further investigate these findings, we analyse this relationship through the lens of a New Keynesian model with fiscal policy shocks. Nominal rigidities play a key role in shaping our results. This analysis contributes to literature by introducing a determinant of money velocity, offering insights into the transmission mechanisms of fiscal policy shocks.
 
 
