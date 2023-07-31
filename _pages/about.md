@@ -22,10 +22,14 @@ _Presented at: 10th ICEEE Congress (May 2023) , 16th Dynare Conference, 2nd Dolo
 <br />
 <br />
 <br />
+<br />
+<br />
 [**Public Debt, Fiscal Policy and Velocity**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Velocity_and_public_debt_expectations_V2.pdf) (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert)) <br>
 This work explores the relationship between the public debt-to-GDP ratio and the velocity of money zero maturity (MZM) in the United States. Our findings suggest that the public debt-to-GDP ratio Granger causes velocity from 1959Q1 to 2019Q4. To further investigate these findings, we analyse this relationship through the lens of a New Keynesian model with fiscal policy shocks. Nominal rigidities play a key role in shaping our results. This analysis contributes to literature by introducing a determinant of money velocity, offering insights into the transmission mechanisms of fiscal policy shocks. <br>
 <br />
-_Presentation at the conference on Expectations in Dynamic Macroeconomic Models (poster session, August 2023)_
+_Presentation at Expectations in Dynamic Macroeconomic Models @TU Wien (poster session, August 2023)_
+<br />
+<br />
 <br />
 <br />
 <br />
