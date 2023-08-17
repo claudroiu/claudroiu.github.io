@@ -33,7 +33,7 @@ _Presentation at Expectations in Dynamic Macroeconomic Models @TU Wien (poster s
 <br />
 <br />
 <br />
-[**The Macroeconomic Effects of Income Taxes on Labour Markets**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/HA_github.pdf) (with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
+[**The Macroeconomic Effects of Income Taxes on Labour Markets**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/project_HA.pdf) (with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
 This work examines the effects of income taxation on the labour market and its role in explaining hours worked dynamics. We construct a Real Business Cycle (RBC) model with two agents. Through impulse response functions, we show that a shock to income taxes affects differently the two agents, suggesting a heterogeneous and negative response of labour supply. To test these results, the paper provides microeconomic evidence from the US Current Population Survey, which indicates that high-income individuals are taxed proportionally less than low-income individuals. Additionally, we find that the labour elasticity with respect to income tax is positive. 
 
 ____________
