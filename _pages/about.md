@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the [Free University of Bolzano-Bozen](https://www.unibz.it/en/), under the supervision of [Francesco Ravazzolo](http://www.francescoravazzolo.com/). My research interests are in macroeconomics with a particular emphasis on the interaction between fiscal policy and monetary policy. Previously, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
+I am a PhD candidate in Economics at the [Free University of Bolzano-Bozen](https://www.unibz.it/en/). My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
 
 Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_Claudia_Udroiu.pdf).
 
