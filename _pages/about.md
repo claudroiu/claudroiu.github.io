@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the [Free University of Bolzano-Bozen](https://www.unibz.it/en/). My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
+I obtained my PhD in Economics from the [Free University of Bolzano-Bozen](https://www.unibz.it/en/). My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
 
 Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_Claudia_Udroiu.pdf).
 
@@ -36,7 +36,7 @@ _Presented at: 16th UNITO-Collegio Carlo Alberto PhD Workshop in Economics (Nove
 [**The Macroeconomic Effects of Income Taxes on Labour Markets**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/IncomeTaxes_Kharazi_Ravazzolo_Udroiu.pdf) (with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
 This work examines the effects of income taxation on the labour market and its role in explaining hours worked dynamics. We construct a Real Business Cycle (RBC) model with two agents. Through impulse response functions, we show that a shock to income taxes affects differently the two agents, suggesting a heterogeneous and negative response of labour supply. To test these results, the paper provides microeconomic evidence from the US Current Population Survey, which indicates that high-income individuals are taxed proportionally less than low-income individuals. Additionally, we find that the labour elasticity with respect to income tax is positive. <br>
 <br />
-_Presentation at: 31st Symposium of the Society for Nonlinear Dynamics & Econometrics (March 2024)._
+
 <br />
 <br />
 <br />
