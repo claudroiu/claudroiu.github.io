@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my PhD in Economics from the [Free University of Bolzano-Bozen](https://www.unibz.it/en/). My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
+I am a Postdoctoral Researcher at the Free University of Bozen-Bolzano. My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. I am currently interested in the macroeconometric modeling of climate change and extreme events. I obtained my PhD in Economics in January 2024 from the [Free University of Bolzano-Bozen](https://www.unibz.it/en/). During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
 
 Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_Claudia_Udroiu.pdf).
 
 ____________
 ### Working Papers
 
-[**On the Interactions between Money Supply and Fiscal Stimuli**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/MonFin_LoRussoRavazzoloUdroiu.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
+[**Is monetary-financing a valuable alternative to debt-financing in response to fiscal stimuli?**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/MonFin_LoRussoRavazzoloUdroiu.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
 In this paper we quantitatively evaluate an alternative way of public debt financing. Specifically, we develop and estimate a New Keynesian model to analyse the effects of a fiscal stimulus that is financed by money supply, and does not result in an increase in public debt. Through our impulse response analysis, we find a positive impact of monetary-financing on economic aggregates. The paper contributes to the literature by providing a quantitative counterfactual analysis of utilizing the money supply to finance fiscal stimuli. <br>
 <br />
 _Presented at: 10th ICEEE Congress (May 2023) , 16th Dynare Conference, 2nd Dolomiti Macro Meetings, IAAE Annual Conference, 28th CEF Conference (June - July 2022), the ICEA Taxation and Innovation Conference (online, February 2022), SIdE Summer School (July 2021)._
