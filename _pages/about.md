@@ -15,7 +15,7 @@ Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_Clau
 ____________
 ### Working Papers
 
-[**Is monetary-financing a valuable alternative to debt-financing in response to fiscal stimuli?**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Paper_LRU.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
+[**Is monetary financing a valuable alternative to debt financing in response to fiscal stimuli?**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Paper_LRU.pdf) (with [Marco Lorusso](https://www.ncl.ac.uk/business/people/profile/marcolorusso.html) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
 In this paper we quantitatively evaluate an alternative way of public debt financing. Specifically, we develop and estimate a New Keynesian model to analyse the effects of a fiscal stimulus that is financed by money supply, and does not result in an increase in public debt. Through our impulse response analysis, we find a positive impact of monetary-financing on economic aggregates. However, the expansionary impact of monetary-financed fiscal shocks comes at a cost: an increase in inflation. The paper contributes to the literature by providing a quantitative counterfactual analysis of the use of money supply to finance fiscal stimuli. <br>
 <br />
 _Presented at: 10th ICEEE Congress (May 2023) , 16th Dynare Conference, 2nd Dolomiti Macro Meetings, IAAE Annual Conference, 28th CEF Conference (June - July 2022), the ICEA Taxation and Innovation Conference (online, February 2022), SIdE Summer School (July 2021)._
