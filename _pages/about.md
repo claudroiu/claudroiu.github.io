@@ -20,6 +20,8 @@ In this paper, we investigate the use of money supply issued by the central bank
 <br />
 _Presented at: The 2024 RCEA International Conference (May 2024), 10th ICEEE Congress (May 2023) , 16th Dynare Conference, 2nd Dolomiti Macro Meetings, IAAE Annual Conference, 28th CEF Conference (June - July 2022), the ICEA Taxation and Innovation Conference (online, February 2022), SIdE Summer School (July 2021)._
 <br />
+[BEMPS Working Paper](https://ideas.repec.org/p/bzn/wpaper/bemps105.html)
+<br />
 <br />
 
 [**Unraveling the Heterogeneous Impact of Redistributive Policies on Labor Supply**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/IncomeTaxes_Kharazi_Ravazzolo_Udroiu.pdf) (with [Aicha Kharazi](https://sites.google.com/view/aichakharazi/home) and [Francesco Ravazzolo](http://www.francescoravazzolo.com/)) <br>
@@ -29,7 +31,7 @@ In this paper, we provide new evidence on the inequalities arising from income t
 ________________________________________________________________
 ### Work in progress
 
-[**Public Debt and Velocity**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Public_debt_and_velocity.pdf) (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert)) <br>
+[**Public Debt-to-GDP and Velocity of Money Supply**](https://github.com/claudroiu/claudroiu.github.io/blob/master/files/Public_debt_and_velocity.pdf) (with [Stefan Franz Schubert](https://www.unibz.it/it/faculties/economics-management/academic-staff/person/8367-stefan-franz-schubert)) <br>
 This work explores the relationship between the public debt-to-GDP ratio and the velocity of money zero maturity (MZM) in the United States. Our findings suggest that the public debt-to-GDP ratio Granger causes velocity from 1959Q1 to 2019Q4. To further investigate these findings, we analyse this relationship through the lens of a New Keynesian model with fiscal policy shocks. This analysis contributes to literature by introducing a determinant of money velocity, offering insights into the transmission mechanisms of fiscal policy shocks. <br>
 <br />
 _Presented at: 16th UNITO-Collegio Carlo Alberto PhD Workshop in Economics (November 2023) and Expectations in Dynamic Macroeconomic Models @TU Wien (poster session, August 2023)._
