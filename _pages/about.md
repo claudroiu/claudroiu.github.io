@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the Free University of Bozen-Bolzano. My research interests are in macroeconomics with a specific emphasis on the interplay between fiscal policy and monetary policy. I am currently interested in modelling the financing of climate change policies. I obtained my PhD in Economics in January 2024 from the [Free University of Bozen-Bolzano](https://www.unibz.it/en/). During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
 
+**UPDATE**: In October 2024, I will be joining the Economics Department at Newcastle University as a Lecturer (Assistant Professor) in Macroeconomics.
+
 Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_ClaudiaUdroiu.pdf).
 
 ____________
