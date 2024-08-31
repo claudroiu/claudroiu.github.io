@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at the Free University of Bozen-Bolzano. My resea
 
 **UPDATE**: In October 2024, I will be joining the Economics Department at Newcastle University as a Lecturer (Assistant Professor) in Macroeconomics.
 
-Please find my Curriculum Vitae [here](https://claudroiu.github.io/files/CV_ClaudiaUdroiu.pdf).
+Please find here my [**CV**](https://claudroiu.github.io/files/CV_ClaudiaUdroiu.pdf).
 
 ____________
 ### Working Papers
