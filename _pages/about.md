@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lecturer (Assistant Professor) in Economics at [Newcastle University](https://www.ncl.ac.uk/business/). My research interests are in macroeconomics with a specific emphasis on the interactions between fiscal policy and monetary policy. I am currently interested in modelling the financing of climate change policies. I obtained my PhD in Economics in January 2024 from the [Free University of Bozen-Bolzano](https://www.unibz.it/en/). During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
+I am Lecturer (Assistant Professor) in Economics at [Newcastle University Business School](https://www.ncl.ac.uk/business/). My research interests are in macroeconomics with a specific emphasis on the interactions between fiscal policy and monetary policy. I am currently interested in modelling the financing of climate change policies. I obtained my PhD in Economics in January 2024 from the [Free University of Bozen-Bolzano](https://www.unibz.it/en/). During my doctoral studies, I worked as an intern in the Monetary Policy and Analysis Division at the Deutsche Bundesbank.
 
 
 Please find here my [**CV**](https://claudroiu.github.io/files/CV_ClaudiaUdroiu.pdf).
