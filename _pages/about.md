@@ -39,4 +39,3 @@ _Presented at: 16th UNITO-Collegio Carlo Alberto PhD Workshop in Economics (Nove
 <br />
 <br />
 
-**On Distortionary Taxes and Fiscal Rules** (this is an introductory chapter of my PhD thesis)
